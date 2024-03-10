@@ -9,3 +9,6 @@ The player has 3 lifes to play with initially.
 After hitting a spacecraft, the scoreboard for the player will be updated with his new score, and after the end of each game the highscore will be recorded to compete with his freinds.
 
 *Have Fun! :'D*
+
+### Required libraries
+pygame
