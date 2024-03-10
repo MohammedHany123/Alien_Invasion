@@ -12,3 +12,5 @@ After hitting a spacecraft, the scoreboard for the player will be updated with h
 
 ### Required libraries
 pygame
+time
+sys
