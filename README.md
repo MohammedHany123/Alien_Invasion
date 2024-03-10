@@ -10,7 +10,7 @@ After hitting a spacecraft, the scoreboard for the player will be updated with h
 
 *Have Fun! :'D*
 
-### Required libraries
+## Required libraries
 pygame
 time
 sys
